@@ -5,4 +5,4 @@ BOT_TOKEN = ""
 bot = TeleBot(BOT_TOKEN)
 
 # API-ключ сервисного аккаунта из Yandex.Cloud
-YC_STT_API_KEY = "" #'AQVN2ki1Czn4ToZvFWlFWZESYrcrl8I4E11SoPN8'
+YC_STT_API_KEY = ""
